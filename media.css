@@ -1,0 +1,627 @@
+@media(min-width:0px) and (max-width:575px){
+    .navbar-brand .img-fluid {
+        max-width: 75%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 20px;
+    }
+
+    .banner h1 {
+        font-size: 33pt;
+    }
+
+    .banner {
+        min-height: 65vh;
+    }
+
+    .dropdown i {
+        font-size: 89%;
+    }
+
+    .wwr .le h1 {
+        font-size: 20pt;
+    }
+
+    .wwr .le p {
+        font-size: 8.8pt;
+    }
+
+    .mheading h1 {
+        font-size: 20pt;
+    }
+
+    .image .hq h3 {
+        font-size: 15pt;
+    }
+
+    .fa, .fas {
+        font-size: 20px;
+    }
+
+    .image {
+        margin-bottom: 20px;
+    }
+
+    .gheading h1 {
+        font-size: 20pt;
+    }
+
+    .gheading p {
+        font-size: 9pt;
+    }
+
+    .gheading h3 {
+        font-size: 11pt;
+        margin-top: 5%;
+    }
+
+    .images2 {
+        margin-top: 25px;
+    }
+
+    .lang h3 {
+        font-size: 17pt;
+    }
+
+    .lang p {
+        font-size: 8.8pt;@media(min-width:0px) and (max-width:575px){
+    .navbar-brand .img-fluid {
+        max-width: 75%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 20px;
+    }
+
+    .banner h1 {
+        font-size: 33pt;
+    }
+
+    .banner {
+        min-height: 55vh;
+    }
+
+    .dropdown i {
+        font-size: 89%;
+    }
+
+    .wwr .le h1 {
+        font-size: 20pt;
+    }
+
+    .wwr .le p {
+        font-size: 8.8pt;
+    }
+
+    .mheading h1 {
+        font-size: 20pt;
+    }
+
+    .image .hq h3 {
+        font-size: 15pt;
+    }
+
+    .fa, .fas {
+        font-size: 30px;
+    }
+
+    .image {
+        margin-bottom: 20px;
+    }
+
+    .gheading h1 {
+        font-size: 20pt;
+    }
+
+    .gheading p {
+        font-size: 9pt;
+    }
+
+    .gheading h3 {
+        font-size: 11pt;
+        margin-top: 5%;
+    }
+
+    .images2 {
+        margin-top: 25px;
+    }
+
+    .lang h3 {
+        font-size: 17pt;
+    }
+
+    .lang p {
+        font-size: 8.8pt;
+    }
+
+    .lang h4 {
+        font-size: 10pt;
+        margin-top: 5%;
+        margin-bottom: 35px;
+    }
+}
+    }
+
+    .lang h4 {
+        font-size: 10pt;
+        margin-top: 5%;
+        margin-bottom: 35px;
+    }
+
+    .mheading .m2 {
+        font-size: 20px;
+    }
+
+    .contact form input {
+        font-size: 9pt;
+    }
+
+    .contact form textarea {
+        font-size: 9pt;
+    }
+
+    .contact form input[type="submit"] {
+        padding: 1.7% 0%;
+        font-size: 10pt;
+    }
+
+    footer p {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    footer i {
+        margin-left: 7%;
+    }
+
+    .contact :hover .mheading span {
+        width: 40px;
+        height: 2px;
+    }
+
+    .mheading span {
+        width: 0;
+        height: 2px;
+    }
+
+    .middle:hover .le span {
+        width: 40px;
+        height: 2px;
+    }
+
+    .language :hover .mheading span {
+        width: 55px;
+    }
+
+    .oura:hover .le span {
+        width: 40px;
+        height: 2px;
+    }
+
+    .le span {
+        height: 2px;
+    }
+
+    .wwd:hover .mheading span {
+        width: 40px;
+    }
+
+    .fa-facebook-square{
+        margin-left: 0;
+    }
+    .ri{
+        text-align: center;
+    }
+}
+
+@media(min-width:0px) and (max-width:575px){
+    .navbar-brand .img-fluid {
+        max-width: 75%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 20px;
+    }
+
+    .banner h1 {
+        font-size: 33pt;
+    }
+
+    .banner {
+        min-height: 65vh;
+    }
+
+    .dropdown i {
+        font-size: 89%;
+    }
+
+    .wwr .le h1 {
+        font-size: 20pt;
+    }
+
+    .wwr .le p {
+        font-size: 8.8pt;
+    }
+
+    .mheading h1 {
+        font-size: 20pt;
+    }
+
+    .image .hq h3 {
+        font-size: 15pt;
+    }
+
+    .fa, .fas {
+        font-size: 20px;
+    }
+
+    .image {
+        margin-bottom: 20px;
+    }
+
+    .gheading h1 {
+        font-size: 20pt;
+    }
+
+    .gheading p {
+        font-size: 9pt;
+    }
+
+    .gheading h3 {
+        font-size: 11pt;
+        margin-top: 5%;
+    }
+
+    .images2 {
+        margin-top: 25px;
+    }
+
+    .lang h3 {
+        font-size: 17pt;
+    }
+
+    .lang p {
+        font-size: 8.8pt;
+    }
+}  
+        
+@media(min-width:576px) and (max-width:767px){
+    .navbar-brand .img-fluid {
+        max-width: 85%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 25px;
+    }
+
+    .banner h1 {
+        font-size: 35pt;
+    }
+
+    .banner {
+        min-height: 65vh;
+    }
+
+    .dropdown i {
+        font-size: 93%;
+    }
+
+    .wwr .le h1 {
+        font-size: 23pt;
+    }
+
+    .wwr .le p {
+        font-size: 9.2pt;
+    }
+
+    .mheading h1 {
+        font-size: 23pt;
+    }
+
+    .image .hq h3 {
+        font-size: 17pt;
+    }
+
+    .fa, .fas {
+        font-size: 30px;
+    }
+
+    .image {
+        margin-bottom: 25px;
+    }
+
+    .gheading h1 {
+        font-size: 23pt;
+    }
+
+    .gheading p {
+        font-size: 9.2pt;
+    }
+
+    .gheading h3 {
+        font-size: 13pt;
+        margin-top: 6%;
+    }
+
+    .images2 {
+        margin-top: 29px;
+    }
+
+    .lang h3 {
+        font-size: 19pt;
+    }
+
+    .lang p {
+        font-size: 9.3pt;
+    }
+
+    .lang h4 {
+        font-size: 14pt;
+        margin-top: 7%;
+        margin-bottom: 35px;
+    }
+
+    .lang h4 {
+        font-size: 12pt;
+        margin-top: 6%;
+        margin-bottom: 35px;
+    }
+
+    .mheading .m2 {
+        font-size: 23px;
+    }
+
+    .contact form input {
+        font-size: 9pt;
+    }
+
+    .contact form textarea {
+        font-size: 9pt;
+    }
+
+    .contact form input[type="submit"] {
+        padding: 1.7% 0%;
+        font-size: 10pt;
+    }
+
+    footer p {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    footer i {
+        margin-left: 7%;
+    }
+
+    .contact :hover .mheading span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .mheading span {
+        width: 0;
+        height: 4px;
+    }
+
+    .middle:hover .le span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .language :hover .mheading span {
+        width: 45px;
+    }
+
+    .oura:hover .le span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .le span {
+        height: 4px;
+    }
+
+    .wwd:hover .mheading span {
+        width: 45px;
+    }
+
+    .fa-facebook-square{
+        margin-left: 0;
+    }
+    .ri{
+        text-align: center;
+        margin-top: 15px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .navbar-brand .img-fluid {
+        max-width: 90%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 25px;
+    }
+
+    .banner h1 {
+        font-size: 31pt;
+    }
+
+    .banner {
+        min-height: 80vh;
+    }
+
+    .dropdown i {
+        font-size: 95%;
+    }
+
+    .wwr .le h1 {
+        font-size: 23pt;
+    }
+
+    .wwr .le p {
+        font-size: 9.2pt;
+    }
+
+    .mheading h1 {
+        font-size: 23pt;
+    }
+
+    .image .hq h3 {
+        font-size: 17pt;
+    }
+
+    .fa, .fas {
+        font-size: 30px;
+    }
+
+    .image {
+        margin-bottom: 25px;
+    }
+
+    .gheading h1 {
+        font-size: 23pt;
+    }
+
+    .gheading p {
+        font-size: 9.2pt;
+    }
+
+    .gheading h3 {
+        font-size: 13pt;
+        margin-top: 6%;
+    }
+
+    .images2 {
+        margin-top: 29px;
+    }
+
+    .lang h3 {
+        font-size: 16pt;
+    }
+
+    .lang p {
+        font-size: 9.3pt;
+    }
+
+    .lang h4 {
+        font-size: 14pt;
+        margin-top: 7%;
+        margin-bottom: 35px;
+    }
+
+    .lang h4 {
+        font-size: 12pt;
+        margin-top: 6%;
+        margin-bottom: 35px;
+    }
+
+    .mheading .m2 {
+        font-size: 23px;
+    }
+
+    .contact form input {
+        font-size: 11pt;
+    }
+
+    .contact form textarea {
+        font-size: 11pt;
+    }
+
+    .contact form input[type="submit"] {
+        padding: 1.7% 0%;
+        font-size: 12pt;
+    }
+
+    footer p {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    footer i {
+        margin-left: 7%;
+    }
+
+    .contact :hover .mheading span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .mheading span {
+        width: 0;
+        height: 4px;
+    }
+
+    .middle:hover .le span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .language :hover .mheading span {
+        width: 45px;
+    }
+
+    .oura:hover .le span {
+        width: 45px;
+        height: 4px;
+    }
+
+    .le span {
+        height: 4px;
+    }
+
+    .wwd:hover .mheading span {
+        width: 45px;
+    }
+
+    .fa-facebook-square{
+        margin-left: 0;
+    }
+    .ri{
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .wwd {
+        background-size: 685px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    .wwd {
+        background-size: 860px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1440px){
+    .wwd {
+        background-size: 1020px;
+    }
+}
+
+@media(min-width:1441px) and (max-width:2550px){
+    .wwd {
+        background-size: 1200px;
+    }
+}
